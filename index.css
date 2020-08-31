@@ -1,13 +1,9 @@
 body {
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(1, 1, 1);
 }
 
-.navbar-custom {
+.navbar-light {
     color: rgb(204, 204, 197);
-}
-
-.bg-light {
-    color: rgb(49, 49, 49);
 }
 
 @font-face {
@@ -37,3 +33,4 @@ body {
     bottom: 5px;
     left: 700px;
 }
+
