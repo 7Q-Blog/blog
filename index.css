@@ -34,3 +34,7 @@ body {
     left: 700px;
 }
 
+.pad {
+    position: relative;
+    bottom: 20px;
+}
