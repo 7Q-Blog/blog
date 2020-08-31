@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(12, 12, 12);
+}
+
+.navbar-custom {
+    color: rgb(204, 204, 197);
+}
+
+.bg-light {
+    color: rgb(49, 49, 49);
+}
+
+@font-face {
+    font-family: 'outline';
+    src: url('hussarboldoutline-webfont.woff2') format('woff2'),
+         url('hussarboldoutline-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.font {
+    font-family: outline;
+}
+
+.fontcol {
+    color: yellow;
+}
+
+.card {
+    background-color: rgb(49, 49, 49);
+    color: rgb(12, 12, 12);
+}
+
+.img {
+    position: relative;
+    bottom: 5px;
+    left: 700px;
+}
